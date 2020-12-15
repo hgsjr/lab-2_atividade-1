@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/atividade_1.dir/main.c.o  -o atividade_1.exe -Wl,--out-implib,libatividade_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
